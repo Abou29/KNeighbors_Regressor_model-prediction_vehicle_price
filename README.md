@@ -34,4 +34,3 @@ renault, saab, subaru, toyota, volkswagen, volvo
 23. peak-rpm: continuous from 4150 to 6600.
 24. city-mpg: continuous from 13 to 49.
 25. highway-mpg: continuous from 16 to 54.
-26. price: continuous from 5118 to 45400.
